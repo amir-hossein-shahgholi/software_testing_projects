@@ -1,0 +1,9 @@
+[submodule "ST_CA1-2"]
+	path = ST_CA1-2
+	url = https://github.com/amir-hossein-shahgholi/ST_CA1-2.git
+[submodule "ST_CA3"]
+	path = ST_CA3
+	url = https://github.com/amir-hossein-shahgholi/ST_CA3.git
+[submodule "ST_CA6"]
+	path = ST_CA6
+	url = git@github.com:amir-hossein-shahgholi/ST_CA6.git
